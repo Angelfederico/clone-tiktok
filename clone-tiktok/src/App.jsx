@@ -6,7 +6,7 @@ function App() {
   const [count, setCount] = useState(0)
 
   return (
-    <h1>Clone Tiktok</h1>
+    <h1>Clone Tik-tok</h1>
   )
 }
 
