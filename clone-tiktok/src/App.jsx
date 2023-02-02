@@ -8,7 +8,7 @@ function App() {
   return (
     <>
       <h1>Clone Tik-tok</h1>
-      <p>fiuba</p>
+
     </>
   )
 }
