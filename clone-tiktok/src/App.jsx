@@ -9,6 +9,7 @@ function App() {
     <>
       <h1>Clone Tik-tok</h1>
       <h2>Tik-Tok</h2>
+
     </>
   )
 }
